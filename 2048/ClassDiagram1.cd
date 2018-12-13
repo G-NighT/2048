@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Класс, отвечающий за запуск программы">
+    <Position X="0.62" Y="2.686" Height="0.608" Width="1.293" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за генерирование формы из вспомогательных классов">
+    <Position X="2.319" Y="2.769" Height="0.925" Width="1.365" />
+  </Comment>
+  <Comment CommentText="Класс, принимаемый значения состояния игрового поля и выполняющий его сохранение в файл sln">
+    <Position X="5.626" Y="0.564" Height="0.471" Width="3.269" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за реализацию функций пользовательского интерфейса в Windows">
+    <Position X="5.636" Y="1.306" Height="0.471" Width="3.269" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за создание прозрачного окна. Дочерний класс Form1">
+    <Position X="3.981" Y="2.848" Height="0.794" Width="1.52" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за заполнение прозрачного окна информацией, когда игрок доходит до плитки 2048">
+    <Position X="7.382" Y="2.762" Height="0.675" Width="2.343" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за заполнение прозрачного окна справочной информацией">
+    <Position X="7.38" Y="2.006" Height="0.675" Width="2.011" />
+  </Comment>
+  <Comment CommentText="Основной класс, отвечающий за динамическое генерирование игрового поля (таблицы) из вспомогательных классов">
+    <Position X="4.147" Y="4.535" Height="1.434" Width="1.209" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за установку label в любом направлении/углу">
+    <Position X="7.368" Y="5.384" Height="0.483" Width="2.107" />
+  </Comment>
+  <Comment CommentText="Класс, отвечающий за отрисовку каждой плитки">
+    <Position X="5.799" Y="4.522" Height="0.603" Width="1.341" />
+  </Comment>
+  <Comment CommentText="Вспомогательный класс, отвечающий за преобразование значения в объект">
+    <Position X="7.594" Y="4.4" Height="0.794" Width="1.317" />
+  </Comment>
+  <Class Name="_2048_gridView.Form1" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAEAAjYQAASAsPCgAEQyQQAMAAARAFQA4AgUDAQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Grid" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBG0FAgIAjA4EwkBAYCEACZiQCGAgUIa4AQAACAI+WU=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Helper" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.MaskedDialog" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaskedDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Popup" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAAACAAAoAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Popup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Program" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Reach2048" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAADAABBAAAACAAAACAAAYAAAAAGABQAAAAAA=</HashCode>
+      <FileName>Reach2048.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.SaveGame" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAggAAAAIAAAAggAABGIAAAAAAAAAAAA=</HashCode>
+      <FileName>SaveGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.Tile" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACEAACQAAACAABACAACAAAAwAQAgGQAAAQA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.WinAPI" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAAIAAIAACAFAAQAAAAAAgAAAAQAAAAAAAA=</HashCode>
+      <FileName>WinAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2048_gridView.OrientedTextLabel" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAAAAAgAACAAAAAgAAAAAAAAAAAIAAAACCAAAAg=</HashCode>
+      <FileName>OrientedTextLabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,87 @@
+E:\Programming\Git\2048\2048\2048\bin\Debug\2048-gridView.exe.config
+E:\Programming\Git\2048\2048\2048\bin\Debug\2048-gridView.exe
+E:\Programming\Git\2048\2048\2048\bin\Debug\2048-gridView.pdb
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Form1.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Grid.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Properties.Resources.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Popup.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Reach2048.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\_2048_gridView.Tile.resources
+E:\Programming\Git\2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+E:\Programming\Git\2048\2048\2048\obj\Debug\2048-gridView.exe
+E:\Programming\Git\2048\2048\2048\obj\Debug\2048-gridView.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Debug\2048-gridView.exe.config
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Debug\2048-gridView.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Debug\2048-gridView.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Grid.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Popup.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Reach2048.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\_2048_gridView.Tile.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Release\2048_G-NighT.exe.config
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Release\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Release\2048_G-NighT.application
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Release\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\bin\Release\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048_G-NighT.TrustInfo.xml
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048_G-NighT.application
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048-master\2048\2048\obj\Debug\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe.config
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.application
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Grid.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Popup.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Reach2048.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Tile.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.TrustInfo.xml
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.application
+C:\Users\G-NIGHTNote\Desktop\2048\2048\bin\Release\2048_G-NighT.exe.config
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048_G-NighT.exe
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048_G-NighT.pdb
+C:\Users\G-NIGHTNote\Desktop\2048\2048\bin\Release\2048_G-NighT.exe.manifest
+C:\Users\G-NIGHTNote\Desktop\2048\2048\bin\Release\2048_G-NighT.application
+C:\Users\G-NIGHTNote\Desktop\2048\2048\bin\Release\2048_G-NighT.exe
+C:\Users\G-NIGHTNote\Desktop\2048\2048\bin\Release\2048_G-NighT.pdb
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Form1.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Grid.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Properties.Resources.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Popup.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Reach2048.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\_2048_gridView.Tile.resources
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048_G-NighT.TrustInfo.xml
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048_G-NighT.exe.manifest
+C:\Users\G-NIGHTNote\Desktop\2048\2048\obj\Debug\2048_G-NighT.application
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe.config
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.application
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.exe
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\bin\Release\2048_G-NighT.pdb
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Grid.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Popup.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Reach2048.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\_2048_gridView.Tile.resources
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.TrustInfo.xml
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.exe.manifest
+D:\Cloud Mail.Ru\ВУЗ\2 КУРС\ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ\4 СЕМЕСТР\КУРСОВАЯ\2048\2048\obj\Debug\2048_G-NighT.application

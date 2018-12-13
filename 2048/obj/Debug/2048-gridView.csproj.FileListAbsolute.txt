@@ -1,0 +1,16 @@
+E:\Programming\Projects\2048\2048-gridView\bin\Debug\2048-gridView.exe.config
+E:\Programming\Projects\2048\2048-gridView\bin\Debug\2048-gridView.exe
+E:\Programming\Projects\2048\2048-gridView\bin\Debug\2048-gridView.pdb
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\2048-gridView.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Form1.resources
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Properties.Resources.resources
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\2048-gridView.csproj.GenerateResource.Cache
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\2048-gridView.exe
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\2048-gridView.pdb
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Grid.resources
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Tile.resources
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Reach2048.resources
+E:\Programming\Projects\2048\2048-gridView\obj\Debug\_2048_gridView.Popup.resources
+E:\Programming\Git\2048\2048\2048\bin\Debug\2048-gridView.exe.config
+E:\Programming\Git\2048\2048\2048\obj\Debug\2048-gridView.exe
+E:\Programming\Git\2048\2048\2048\obj\Debug\2048-gridView.pdb
